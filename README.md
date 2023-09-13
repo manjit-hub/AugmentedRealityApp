@@ -1,5 +1,10 @@
 # Augmented Reality Student ID Scanner and Portfolio Viewer
 
+## Sample Screenshots
+![image](https://github.com/manjit-hub/AugmentedRealityApp/assets/119831030/cd43b43f-6875-4cd0-b03d-e7e793b9ef68)
+![image](https://github.com/manjit-hub/AugmentedRealityApp/assets/119831030/967c71dc-836a-4577-be42-7e215c12b188)
+
+
 ## Table of Contents
 
 - [Description](#description)
@@ -48,13 +53,16 @@ Before you begin, ensure you have met the following requirements:
 
 1. Launch the app on your smartphone.
 
-2. Use the app's camera to scan a student's ID card(here it only scan one ID card of mine).
+2. Use the app's camera to scan a student's ID card(here it only scan one ID card of mine)-
+3.  Image Target:
+   ![image](https://github.com/manjit-hub/AugmentedRealityApp/assets/119831030/a92704eb-bc42-4400-84c2-ca7ff12f1426)
 
-3. The app, powered by Vuforia, will recognize the ID card and display the student's digital portfolio on your screen.
 
-4. Explore the portfolio, view student achievements, and access relevant information.
+4. The app, powered by Vuforia, will recognize the ID card and display the student's digital portfolio on your screen.
 
-5. Customize the app according to your institution's needs, such as branding and additional features using Unity's intuitive development environment.
+5. Explore the portfolio, view student achievements, and access relevant information.
+
+6. Customize the app according to your institution's needs, such as branding and additional features using Unity's intuitive development environment.
 
 
 ----Thank You----

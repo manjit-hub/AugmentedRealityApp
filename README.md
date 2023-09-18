@@ -40,7 +40,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/AugmentedRealityApp.git
+   git clone https://github.com/manjit-hub/AugmentedRealityApp.git
    ```
 
 2. Open the Unity project in your Unity development environment.
